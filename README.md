@@ -11,12 +11,14 @@ My solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0013-roman-to-integer/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0168-excel-sheet-column-title/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0125-valid-palindrome/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0168-excel-sheet-column-title/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
