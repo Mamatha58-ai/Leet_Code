@@ -35,6 +35,7 @@ My solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0088-merge-sorted-array/) | Easy |
+| [0118-pascals-triangle](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0118-pascals-triangle/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Mamatha58-ai/Leet_Code/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -44,4 +45,8 @@ My solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/Mamatha58-ai/Leet_Code/tree/main/1672-richest-customer-wealth/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0118-pascals-triangle](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0118-pascals-triangle/) | Easy |
 <!---LeetCode Topics End-->
