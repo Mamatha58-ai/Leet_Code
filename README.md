@@ -35,8 +35,13 @@ My solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0088-merge-sorted-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/Mamatha58-ai/Leet_Code/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0088-merge-sorted-array/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/Mamatha58-ai/Leet_Code/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
