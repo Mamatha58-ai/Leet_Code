@@ -20,6 +20,7 @@ My solutions
 | [0168-excel-sheet-column-title](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0202-happy-number/) | Easy |
+| [0263-ugly-number](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0263-ugly-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
