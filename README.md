@@ -12,6 +12,7 @@ My solutions
 | [0205-isomorphic-strings](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0242-valid-anagram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@ My solutions
 | [0168-excel-sheet-column-title](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0242-valid-anagram/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +56,7 @@ My solutions
 | [0088-merge-sorted-array](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0242-valid-anagram/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
