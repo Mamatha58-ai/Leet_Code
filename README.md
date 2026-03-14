@@ -11,6 +11,7 @@ My solutions
 | [0202-happy-number](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ My solutions
 | [0118-pascals-triangle](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0118-pascals-triangle/) | Easy |
 | [0169-majority-element](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Mamatha58-ai/Leet_Code/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -68,4 +70,8 @@ My solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0169-majority-element/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
