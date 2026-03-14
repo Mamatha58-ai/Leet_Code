@@ -7,6 +7,7 @@ My solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0013-roman-to-integer/) | Easy |
+| [0169-majority-element](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0169-majority-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,11 +37,13 @@ My solutions
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0118-pascals-triangle/) | Easy |
+| [0169-majority-element](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0169-majority-element/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Mamatha58-ai/Leet_Code/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0169-majority-element/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +52,12 @@ My solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0118-pascals-triangle/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Mamatha58-ai/Leet_Code/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
